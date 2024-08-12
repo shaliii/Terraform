@@ -1,0 +1,2 @@
+https://github.com/shaliii/Terraform.git
+https://github.com/shaliii/Terraform.git
